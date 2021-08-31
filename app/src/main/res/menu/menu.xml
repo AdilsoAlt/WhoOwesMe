@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:id="@+id/acoesMg">
         <item
-            android:id="@+id/concluirMi"
+            android:id="@+id/novaDividaMi"
             android:title="Nova Dívida"/>
         <item
             android:id="@+id/logout"

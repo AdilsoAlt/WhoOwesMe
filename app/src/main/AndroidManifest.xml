@@ -11,7 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppFinanceiro"
         tools:ignore="AllowBackup">
-        <activity android:name=".DashboardActivity"></activity>
+        <activity android:name=".NovaDividaActivity"></activity>
+        <activity android:name=".DashboardActivity" />
         <activity android:name=".RecuperarSenhaActivity" />
         <activity android:name=".NovoCadastroActivity" />
         <activity android:name=".MainActivity">

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Who Owes Me</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="recuperar_senha">Recuperar senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueceu_a_senha">Esqueceu a Senha ?</string>
+    <string name="novo_cadastro">Novo Cadastro</string>
+    <string name="repetir_a_senha">Repetir a senha</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="voltar">Voltar</string>
+    <string name="recuperar_senha_tv">Recuperar Senha</string>
+</resources>
